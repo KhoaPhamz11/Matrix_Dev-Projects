@@ -5,4 +5,4 @@ g++ -I include main.cpp src\*.cpp -o main
 ./main
 
 # Build & Run 
-g++ -I include main.cpp src\*.cpp -o main ; ./main
+g++ -I include main.cpp src\*.cpp -o main; ./main
